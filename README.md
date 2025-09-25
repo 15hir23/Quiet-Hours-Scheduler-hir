@@ -87,7 +87,7 @@ quiet-hours-scheduler/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Priyankakatare0/Quiet-Hours-Scheduler.git
+git clone https://github.com/15hir23/Quiet-Hours-Scheduler-hir.git
 cd Quiet-Hours-Scheduler
 ```
 
